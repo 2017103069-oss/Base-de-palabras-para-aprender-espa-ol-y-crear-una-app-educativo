@@ -4,103 +4,219 @@ Proyecto enfocado en la creación de un banco de 1,000 palabras clave extraídas
 
 ## Promt
 
-[Eres un experto pedagogo en la enseñanza de Español como Lengua Extranjera (ELE) especializado en alumnos nativos de Brasil, y un asesor científico de aprendizaje de idiomas. Estamos creando el contenido para "Aula de español", una app de estudio dirigida a brasileños de todas las edades que busca enseñar el nivel básico del español (incluyendo vocabulario de Latinoamérica y España). El objetivo de la app es que los estudiantes usen un banco de palabras y apliquen métodos científicos para acelerar su adquisición del idioma, mejorando su escucha y habla.
+# ERES UN EXPERTO PEDAGOGO EN LA ENSEÑANZA DE ESPAÑOL COMO LENGUA EXTRANJERA (ELE)
 
+**Especializado en alumnos nativos de Brasil y asesor científico de aprendizaje de idiomas.**
 
-Instrucción:
+Estamos creando el contenido para **“Aula de español”**, una app de estudio dirigida a brasileños de todas las edades que busca enseñar el **nivel básico del español (A1–A2)**, incluyendo vocabulario de **Latinoamérica y España**.
 
+El objetivo de la app es que los estudiantes utilicen un **banco de palabras estructurado** y apliquen **métodos científicos de aprendizaje** para acelerar la adquisición del idioma, mejorando principalmente sus habilidades de:
 
-Redacta una guía breve para la app explicando 3 métodos científicos de estudio eficaces para aprender vocabulario, practicar la comprensión auditiva (escucha) y la expresión oral (habla).
+* **Escucha (comprensión auditiva).**
+* **Habla (expresión oral).**
+* **Vocabulario.**
+* **Pronunciación.**
+* **Comprensión de expresiones cotidianas.**
 
+---
 
-Elabora una lista estratégica de 1000 palabras esenciales del español estructurada para un plan de estudios de 5 meses (200 palabras por mes, agrupadas en bloques de 20 palabras por lección).
+# INSTRUCCIÓN
 
+Redacta una **guía breve y práctica para la app** explicando **3 métodos científicos de estudio eficaces** para:
 
-Es obligatorio que la lista de palabras no se muestre como texto plano, sino que escribas y ejecutes el código Python necesario para exportar toda esta base de datos en un archivo Excel (.xlsx) listo para descargar.
+1. Aprender y memorizar vocabulario.
+2. Practicar la comprensión auditiva (escucha).
+3. Desarrollar la expresión oral (habla).
 
+Los métodos deben ser adecuados para **estudiantes brasileños principiantes de español**, utilizando explicaciones sencillas, ejemplos prácticos y recomendaciones que puedan aplicarse diariamente.
 
-Datos de entrada:
+Además, elabora una **lista estratégica de 1000 palabras esenciales del español**, estructurada para un **plan de estudios de 5 meses**:
 
+* **200 palabras por mes.**
+* **20 palabras por bloque de estudio.**
+* **10 bloques por mes.**
+* **50 bloques en total.**
 
-Público: Estudiantes brasileños (nivel inicial A1-A2).
+Es obligatorio que la lista de palabras **NO se muestre como texto plano**.
 
+Debes **escribir y ejecutar el código Python necesario** para generar y exportar toda esta base de datos en un archivo **Excel (.xlsx)** listo para descargar.
 
-Temario base:
+---
 
+# DATOS DE ENTRADA
 
-Mes 1: Primeros contactos y Presentaciones.
+### Público objetivo
 
+**Estudiantes brasileños de nivel inicial A1–A2.**
 
-Mes 2: Yo y mi mundo (Rutinas, descripciones).
+### Temario base
 
+**Mes 1 — Primeros contactos y presentaciones**
 
-Mes 3: Mi casa y mi ciudad (Lugares, direcciones).
+Saludos, despedidas, presentación personal, nombre, apellido, nacionalidad, profesión, números, países y expresiones básicas.
 
+**Mes 2 — Yo y mi mundo**
 
-Mes 4: Vida social y Consumo (Comida, compras).
+Familia, rutinas, actividades diarias, descripción física y personalidad, días de la semana, horarios y actividades cotidianas.
 
+**Mes 3 — Mi casa y mi ciudad**
 
-Mes 5: Pasado, Futuro y Cultura (Viajes, experiencias).
+Partes de la casa, objetos, habitaciones, lugares públicos, transporte, direcciones, ubicación y orientación.
 
+**Mes 4 — Vida social y consumo**
 
-Foco lingüístico: Incluir "falsos amigos" comunes entre el español y el portugués, y palabras de uso cotidiano.
+Comida, bebidas, restaurante, compras, ropa, precios, cantidades, supermercado, preferencias y situaciones sociales.
 
+**Mes 5 — Pasado, futuro y cultura**
 
-Datos de salida:
+Viajes, experiencias, acontecimientos, tiempo pasado, planes futuros, vacaciones, cultura, lugares turísticos y situaciones comunicativas frecuentes.
 
+---
 
-Un texto con las recomendaciones científicas de estudio (Ej. Repetición espaciada, Shadowing, etc.).
+# FOCO LINGÜÍSTICO
 
+La selección de vocabulario debe priorizar:
 
-Un archivo Excel (.xlsx) generado y disponible para descarga.
+* Palabras de **uso cotidiano y alta frecuencia**.
+* Vocabulario útil para situaciones reales de comunicación.
+* Palabras necesarias para alcanzar progresivamente un nivel **A1–A2**.
+* **Falsos amigos** frecuentes entre español y portugués.
+* Diferencias de significado entre palabras similares en ambos idiomas.
+* Diferencias de **pronunciación** relevantes para brasileños.
+* Expresiones habituales del español latinoamericano.
+* Expresiones y vocabulario frecuentes de España cuando sean relevantes.
+* Palabras que puedan generar **interferencia lingüística portugués → español**.
+* Verbos esenciales para la comunicación cotidiana.
+* Sustantivos, adjetivos, adverbios, pronombres, conectores y otras categorías gramaticales necesarias.
 
+Cuando una palabra presente un riesgo particular para estudiantes brasileños, indícalo claramente en la columna **“Notas / Advertencias para brasileños”**.
 
-El Excel debe contener las siguientes columnas exactas:
+---
 
+# DATOS DE SALIDA
 
-Mes (1 al 5)
+La respuesta debe contener:
 
+### 1. RECOMENDACIONES CIENTÍFICAS DE ESTUDIO
 
-Bloque de estudio (1 al 50)
+Presenta una guía breve explicando **3 métodos científicos de aprendizaje**, por ejemplo:
 
+* **Repetición espaciada (Spaced Repetition).**
+* **Recuperación activa (Active Recall).**
+* **Shadowing / imitación oral.**
 
-Palabra en Español
+Para cada método explica:
 
+* ¿Qué es?
+* ¿Por qué funciona?
+* ¿Cómo utilizarlo para aprender español?
+* ¿Cuánto tiempo dedicarle?
+* ¿Cómo aplicarlo dentro de la app?
+* Un ejemplo práctico para un estudiante brasileño.
 
-Traducción al Portugués
+---
 
+### 2. BASE DE DATOS DE 1000 PALABRAS
 
-Categoría (Verbo, Sustantivo, Adjetivo, etc.)
+Genera una base de datos completa con **exactamente 1000 palabras**.
 
+La distribución obligatoria será:
 
-Frase de ejemplo en Español
+**5 meses × 200 palabras = 1000 palabras**
 
+**50 bloques × 20 palabras = 1000 palabras**
 
-Notas / Advertencias para brasileños (Ej: cuidado con la pronunciación, falso amigo).
+Cada bloque debe contener exactamente **20 palabras**.
 
+La distribución será:
 
-Ejemplo esperado (para las filas del Excel):
+| Mes       | Bloques | Palabras |
+| --------- | ------: | -------: |
+| Mes 1     |    1–10 |      200 |
+| Mes 2     |   11–20 |      200 |
+| Mes 3     |   21–30 |      200 |
+| Mes 4     |   31–40 |      200 |
+| Mes 5     |   41–50 |      200 |
+| **TOTAL** |  **50** | **1000** |
 
+---
 
-Mes: 1
+# ESTRUCTURA OBLIGATORIA DEL ARCHIVO EXCEL
 
+El archivo **.xlsx** debe contener exactamente las siguientes columnas:
 
-Bloque de estudio: 1
+1. **Mes (1 al 5)**
+2. **Bloque de estudio (1 al 50)**
+3. **Palabra en Español**
+4. **Traducción al Portugués**
+5. **Categoría (Verbo, Sustantivo, Adjetivo, etc.)**
+6. **Frase de ejemplo en Español**
+7. **Notas / Advertencias para brasileños (Ej: cuidado con la pronunciación, falso amigo).**
 
+No agregues ni elimines columnas.
 
-Palabra en Español: Apellido
+---
 
+# CRITERIOS DE CALIDAD DEL EXCEL
 
-Traducción al Portugués: Sobrenome
+Antes de generar el archivo, verifica automáticamente mediante Python:
 
+* Que existan exactamente **1000 filas de vocabulario**.
+* Que existan exactamente **5 meses**.
+* Que existan exactamente **50 bloques**.
+* Que cada mes contenga **200 palabras**.
+* Que cada bloque contenga **20 palabras**.
+* Que no existan palabras duplicadas sin justificación pedagógica.
+* Que todas las palabras tengan traducción al portugués.
+* Que todas las palabras tengan categoría gramatical.
+* Que todas las palabras tengan una frase de ejemplo.
+* Que las frases sean correctas y naturales en español.
+* Que las advertencias para brasileños sean relevantes.
+* Que los falsos amigos estén correctamente identificados.
+* Que las traducciones español → portugués sean correctas.
+* Que el nivel lingüístico sea compatible con **A1–A2**.
 
-Categoría: Sustantivo
+---
 
+# EJEMPLO ESPERADO
 
-Frase de ejemplo: Mi apellido es Silva.
+**Mes:** 1
 
+**Bloque de estudio:** 1
 
-Notas / Advertencias: Falso amigo. No confundir con "apelido" (apodo).]
+**Palabra en Español:** Apellido
+
+**Traducción al Portugués:** Sobrenome
+
+**Categoría:** Sustantivo
+
+**Frase de ejemplo:** Mi apellido es Silva.
+
+**Notas / Advertencias:** Falso amigo. No confundir con “apelido” (apodo).
+
+---
+
+# REQUISITO TÉCNICO
+
+Utiliza **Python y la biblioteca openpyxl** para generar el archivo Excel.
+
+El código debe:
+
+1. Crear la estructura de datos.
+2. Validar automáticamente los 1000 registros.
+3. Crear el archivo `.xlsx`.
+4. Aplicar formato profesional a la hoja.
+5. Ajustar automáticamente el ancho de las columnas.
+6. Aplicar filtros.
+7. Congelar la fila de encabezados.
+8. Organizar los datos por mes y bloque.
+9. Guardar el archivo con un nombre profesional, por ejemplo:
+
+**Aula_de_Espanol_1000_Palabras_A1_A2.xlsx**
+
+Finalmente, proporciona el archivo Excel generado para su descarga.
+
+
 
 **Respuesta:**
 
