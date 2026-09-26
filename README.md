@@ -1,15 +1,24 @@
 # Base-de-palabras-para-aprender-espa-ol-y-crear-una-app-educativo
 Proyecto enfocado en la creación de un banco de 1,000 palabras clave extraídas de libros, YouTube y sitios web. Con esta base, se desarrollará una aplicación educativa con un plan de aprendizaje de 5 meses para trabajar las competencias de escucha, habla y escritura de forma integral
+
+
+## Promt
+
+
+**Respuesta:**
+
 Guía científica de estudio para la app "Aula de español"
-Para acelerar el aprendizaje del nivel básico de español en estudiantes brasileños, la app se fundamenta en tres métodos científicos comprobados por la neurociencia cognitiva y la lingüística aplicada ELE (Español como Lengua Extranjera) [cite: 26, 36]. Estas técnicas aprovechan la cercanía entre el portugués y el español (89% de similitud léxica), pero previenen los vicios de fosilización y las interferencias fonéticas [cite: 13, 28].
+Para acelerar el aprendizaje del nivel básico de español en estudiantes brasileños, la app se fundamenta en tres métodos científicos comprobados por la neurociencia cognitiva y la lingüística aplicada ELE (Español como Lengua Extranjera) . Estas técnicas aprovechan la cercanía entre el portugués y el español (89% de similitud léxica), pero previenen los vicios de fosilización y las interferencias fonéticas.
+
 1. Adquisición de Vocabulario: Sistema de Repetición Espaciada (SRS) y Recuperación Activa
-Fundamento científico: Basado en la curva del olvido de Hermann Ebbinghaus y el efecto de prueba (testing effect), la memoria consolida la información cuando se le exige recuperar activamente un dato justo antes de olvidarlo.
-Aplicación en la app: En lugar de listas estáticas, el banco de 1000 palabras utiliza un algoritmo SRS que presenta cada bloque de 20 palabras en intervalos exponenciales óptimos (1 día, 3 días, 7 días, 16 días y 30 días).
-Foco en estudiantes brasileños: El algoritmo prioriza la repetición de falsos amigos (embarazada, borracho, oficina, largo, exquisito) y palabras heterogenéricas (el origen, la costumbre, la sangre), obligando al estudiante a reescribir o pronunciar la palabra en lugar de solo reconocerla pasivamente [cite: 13, 14, 30].
-2. Comprensión Auditiva (Escucha): Fragmentación Sintáctica y Codificación Dual (Chunking + Dual Coding)
-Fundamento científico: Según la Teoría de la Codificación Dual de Allan Paivio y los principios de procesamiento del lenguaje del neurocientífico Stanislas Dehaene, el cerebro procesa la información mediante dos canales independientes pero complementarios: el verbal (auditivo) y el visual [cite: 36].
-Aplicación en la app: Para entrenar el oído al ritmo rápido del español, los audios nativos no se presentan palabra por palabra, sino en bloques de sentido o chunks (ej. ¿Cómo te apellidas?, Por lo menos, De momento) asociando la onda sonora con texto e imágenes conceptuales [cite: 5, 23].
-Estrategia práctica: El alumno escucha el audio original a velocidad natural, lee la transcripción con marcadores visuales, y finalmente realiza una escucha ciega (sin texto) para automatizar la decodificación fonética [cite: 35, 37].
+* Fundamento científico: Basado en la curva del olvido de Hermann Ebbinghaus y el efecto de prueba (testing effect), la memoria consolida la información cuando se le exige recuperar activamente un dato justo antes de olvidarlo.
+* Aplicación en la app: En lugar de listas estáticas, el banco de 1000 palabras utiliza un algoritmo SRS que presenta cada bloque de 20 palabras en intervalos exponenciales óptimos (1 día, 3 días, 7 días, 16 días y 30 días).
+* Foco en estudiantes brasileños: El algoritmo prioriza la repetición de falsos amigos (embarazada, borracho, oficina, largo, exquisito) y palabras heterogenéricas (el origen, la costumbre, la sangre), obligando al estudiante a reescribir o pronunciar la palabra en lugar de solo reconocerla pasivamente.
+
+*2. Comprensión Auditiva (Escucha): Fragmentación Sintáctica y Codificación Dual (Chunking + Dual Coding)
+Fundamento científico: Según la Teoría de la Codificación Dual de Allan Paivio y los principios de procesamiento del lenguaje del neurocientífico Stanislas Dehaene, el cerebro procesa la información mediante dos canales independientes pero complementarios: el verbal (auditivo) y el visual 
+Aplicación en la app: Para entrenar el oído al ritmo rápido del español, los audios nativos no se presentan palabra por palabra, sino en bloques de sentido o chunks (ej. ¿Cómo te apellidas?, Por lo menos, De momento) asociando la onda sonora con texto e imágenes conceptuales 
+Estrategia práctica: El alumno escucha el audio original a velocidad natural, lee la transcripción con marcadores visuales, y finalmente realiza una escucha ciega (sin texto) para automatizar la decodificación fonética.
 3. Expresión Oral (Habla): Técnica de Shadowing (Sombra de Voz) e Imitación Prosódica
 Fundamento científico: Desarrollado por el lingüista Alexander Arguelles y respaldado por la hipótesis del Noticing (Schmidt), el Shadowing activa las neuronas espejo del área de Broca mediante el acoplamiento motor-auditivo casi simultáneo.
 Aplicación en la app: El estudiante escucha una frase pronunciada por un hablante nativo e intenta repetirla en voz alta en tiempo real con solo 0,5 segundos de desfase, imitando no solo las palabras, sino la entonación, la velocidad y la curva melódica.
