@@ -4,9 +4,9 @@ Proyecto enfocado en la creación de un banco de 1,000 palabras clave extraídas
 
 ## Promt
 
-# ERES UN EXPERTO PEDAGOGO EN LA ENSEÑANZA DE ESPAÑOL COMO LENGUA EXTRANJERA (ELE)
+[**ERES UN EXPERTO PEDAGOGO EN LA ENSEÑANZA DE ESPAÑOL COMO LENGUA EXTRANJERA (ELE)**
 
-**Especializado en alumnos nativos de Brasil y asesor científico de aprendizaje de idiomas.**
+*Especializado en alumnos nativos de Brasil y asesor científico de aprendizaje de idiomas.*
 
 Estamos creando el contenido para **“Aula de español”**, una app de estudio dirigida a brasileños de todas las edades que busca enseñar el **nivel básico del español (A1–A2)**, incluyendo vocabulario de **Latinoamérica y España**.
 
@@ -20,7 +20,7 @@ El objetivo de la app es que los estudiantes utilicen un **banco de palabras est
 
 ---
 
-# INSTRUCCIÓN
+**INSTRUCCIÓN**
 
 Redacta una **guía breve y práctica para la app** explicando **3 métodos científicos de estudio eficaces** para:
 
@@ -43,13 +43,13 @@ Debes **escribir y ejecutar el código Python necesario** para generar y exporta
 
 ---
 
-# DATOS DE ENTRADA
+**DATOS DE ENTRADA**
 
-### Público objetivo
+* Público objetivo
 
-**Estudiantes brasileños de nivel inicial A1–A2.**
+Estudiantes brasileños de nivel inicial A1–A2.
 
-### Temario base
+* Temario base
 
 **Mes 1 — Primeros contactos y presentaciones**
 
@@ -73,7 +73,7 @@ Viajes, experiencias, acontecimientos, tiempo pasado, planes futuros, vacaciones
 
 ---
 
-# FOCO LINGÜÍSTICO
+**FOCO LINGÜÍSTICO**
 
 La selección de vocabulario debe priorizar:
 
@@ -93,11 +93,11 @@ Cuando una palabra presente un riesgo particular para estudiantes brasileños, i
 
 ---
 
-# DATOS DE SALIDA
+**DATOS DE SALIDA**
 
 La respuesta debe contener:
 
-### 1. RECOMENDACIONES CIENTÍFICAS DE ESTUDIO
+* 1. RECOMENDACIONES CIENTÍFICAS DE ESTUDIO
 
 Presenta una guía breve explicando **3 métodos científicos de aprendizaje**, por ejemplo:
 
@@ -115,8 +115,7 @@ Para cada método explica:
 * Un ejemplo práctico para un estudiante brasileño.
 
 ---
-
-### 2. BASE DE DATOS DE 1000 PALABRAS
+* 2. BASE DE DATOS DE 1000 PALABRAS
 
 Genera una base de datos completa con **exactamente 1000 palabras**.
 
@@ -141,7 +140,7 @@ La distribución será:
 
 ---
 
-# ESTRUCTURA OBLIGATORIA DEL ARCHIVO EXCEL
+**ESTRUCTURA OBLIGATORIA DEL ARCHIVO EXCEL**
 
 El archivo **.xlsx** debe contener exactamente las siguientes columnas:
 
@@ -157,7 +156,7 @@ No agregues ni elimines columnas.
 
 ---
 
-# CRITERIOS DE CALIDAD DEL EXCEL
+**CRITERIOS DE CALIDAD DEL EXCEL**
 
 Antes de generar el archivo, verifica automáticamente mediante Python:
 
@@ -178,7 +177,7 @@ Antes de generar el archivo, verifica automáticamente mediante Python:
 
 ---
 
-# EJEMPLO ESPERADO
+**EJEMPLO ESPERADO**
 
 **Mes:** 1
 
@@ -196,7 +195,7 @@ Antes de generar el archivo, verifica automáticamente mediante Python:
 
 ---
 
-# REQUISITO TÉCNICO
+**REQUISITO TÉCNICO**
 
 Utiliza **Python y la biblioteca openpyxl** para generar el archivo Excel.
 
@@ -214,7 +213,7 @@ El código debe:
 
 **Aula_de_Espanol_1000_Palabras_A1_A2.xlsx**
 
-Finalmente, proporciona el archivo Excel generado para su descarga.
+Finalmente, proporciona el archivo Excel generado para su descarga.]
 
 
 
