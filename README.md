@@ -2,7 +2,30 @@
 Proyecto enfocado en la creación de un banco de 1,000 palabras clave extraídas de libros, YouTube y sitios web. Con esta base, se desarrollará una aplicación educativa con un plan de aprendizaje de 5 meses para trabajar las competencias de escucha, habla y escritura de forma integral
 
 
-## Promt
+## Fuentes:
+
+🌐 1. Páginas Web y Portales Educativos
+
+* **Actividades ELE:** Plataforma interactiva con recursos didácticos, ejercicios de gramática, fichas descargables y lecturas por niveles para clases de español (https://actividadesele.com/)
+* **todoELE:** Portal con un amplio catálogo de bibliografía, materiales para el aula, guías de vocabulario y herramientas digitales para profesores (https://todoele.net/)
+* **VideoEle:** Curso online gratuito con vídeos didácticos, guías de trabajo y canciones adaptadas a la enseñanza de ELE (https://videoele.com/)
+* **Contigo Spanish Learning:** Blog pedagógico sobre metodologías de enseñanza del español, enfoque comunicativo y aula invertida (https://www.contigospanishlearning.com/)
+* **Librería del Ministerio de Educación de España:** Portal oficial donde se distribuyen publicaciones educativas para la enseñanza del español en Brasil (https://www.libreria.educacion.gob.es/)
+* **Revista Internacional de Lenguas Extranjeras (RILE):** Publicación académica sobre investigación y didáctica en la enseñanza de idiomas (https://revistes.urv.cat/index.php/rile)
+* **LanguagEz (GitHub):** Repositorios de código y página principal de la aplicación educativa LanguagEz (https://github.com/IvanTorres21/LanguagEzApp)
+* **Bible Gateway (Tito 2 RVR1960).
+
+📚 2. Libros, Manuales y Documentos PDF
+
+Español básico para Brasil: Manual contrastivo español-portugués publicado por la Embajada de España en Brasil para niveles A1-A2
+* **Español para brasileños:** conversación I: Libro guía con ejercicios de conversación adaptados al público brasileño, editado por EdUESPI
+* **Plan de estudios de 150 días (Español básico para brasileños):** Programación de clases y glosarios de vocabulario estructurados
+* **Guía para docentes y asesores españoles en Brasil:** Documento de orientación pedagógica e institucional.
+Programa de estudio de Español (MEP - Ministerio de Educación Pública): Marco curricular con listas de recursos y propuestas didácticas
+* **Estudos em língua espanhola:** língua, literatura e ensino: Compendio académico con investigaciones sobre la enseñanza del español en Brasil
+
+
+## Prompt
 
 [**ERES UN EXPERTO PEDAGOGO EN LA ENSEÑANZA DE ESPAÑOL COMO LENGUA EXTRANJERA (ELE)**
 
