@@ -240,7 +240,7 @@ Finalmente, proporciona el archivo Excel generado para su descarga.]
 
 
 
-**Respuesta:**
+## Respuesta:
 
 [Guía científica de estudio para la app "Aula de español"
 Para acelerar el aprendizaje del nivel básico de español en estudiantes brasileños, la app se fundamenta en tres métodos científicos comprobados por la neurociencia cognitiva y la lingüística aplicada ELE (Español como Lengua Extranjera) . Estas técnicas aprovechan la cercanía entre el portugués y el español (89% de similitud léxica), pero previenen los vicios de fosilización y las interferencias fonéticas.
