@@ -13,7 +13,7 @@ Proyecto enfocado en la creación de un banco de 1,000 palabras clave extraídas
 * **Librería del Ministerio de Educación de España:** Portal oficial donde se distribuyen publicaciones educativas para la enseñanza del español en Brasil (https://www.libreria.educacion.gob.es/)
 * **Revista Internacional de Lenguas Extranjeras (RILE):** Publicación académica sobre investigación y didáctica en la enseñanza de idiomas (https://revistes.urv.cat/index.php/rile)
 * **LanguagEz (GitHub):** Repositorios de código y página principal de la aplicación educativa LanguagEz (https://github.com/IvanTorres21/LanguagEzApp)
-* **Bible Gateway (Tito 2 RVR1960).
+* **Bible Gateway (Tito 2 RVR1960)**.
 
 📚 2. Libros, Manuales y Documentos PDF
 
