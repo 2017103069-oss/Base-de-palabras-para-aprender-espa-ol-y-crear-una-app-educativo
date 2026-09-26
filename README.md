@@ -4,10 +4,107 @@ Proyecto enfocado en la creación de un banco de 1,000 palabras clave extraídas
 
 ## Promt
 
+[Eres un experto pedagogo en la enseñanza de Español como Lengua Extranjera (ELE) especializado en alumnos nativos de Brasil, y un asesor científico de aprendizaje de idiomas. Estamos creando el contenido para "Aula de español", una app de estudio dirigida a brasileños de todas las edades que busca enseñar el nivel básico del español (incluyendo vocabulario de Latinoamérica y España). El objetivo de la app es que los estudiantes usen un banco de palabras y apliquen métodos científicos para acelerar su adquisición del idioma, mejorando su escucha y habla.
+
+
+Instrucción:
+
+
+Redacta una guía breve para la app explicando 3 métodos científicos de estudio eficaces para aprender vocabulario, practicar la comprensión auditiva (escucha) y la expresión oral (habla).
+
+
+Elabora una lista estratégica de 1000 palabras esenciales del español estructurada para un plan de estudios de 5 meses (200 palabras por mes, agrupadas en bloques de 20 palabras por lección).
+
+
+Es obligatorio que la lista de palabras no se muestre como texto plano, sino que escribas y ejecutes el código Python necesario para exportar toda esta base de datos en un archivo Excel (.xlsx) listo para descargar.
+
+
+Datos de entrada:
+
+
+Público: Estudiantes brasileños (nivel inicial A1-A2).
+
+
+Temario base:
+
+
+Mes 1: Primeros contactos y Presentaciones.
+
+
+Mes 2: Yo y mi mundo (Rutinas, descripciones).
+
+
+Mes 3: Mi casa y mi ciudad (Lugares, direcciones).
+
+
+Mes 4: Vida social y Consumo (Comida, compras).
+
+
+Mes 5: Pasado, Futuro y Cultura (Viajes, experiencias).
+
+
+Foco lingüístico: Incluir "falsos amigos" comunes entre el español y el portugués, y palabras de uso cotidiano.
+
+
+Datos de salida:
+
+
+Un texto con las recomendaciones científicas de estudio (Ej. Repetición espaciada, Shadowing, etc.).
+
+
+Un archivo Excel (.xlsx) generado y disponible para descarga.
+
+
+El Excel debe contener las siguientes columnas exactas:
+
+
+Mes (1 al 5)
+
+
+Bloque de estudio (1 al 50)
+
+
+Palabra en Español
+
+
+Traducción al Portugués
+
+
+Categoría (Verbo, Sustantivo, Adjetivo, etc.)
+
+
+Frase de ejemplo en Español
+
+
+Notas / Advertencias para brasileños (Ej: cuidado con la pronunciación, falso amigo).
+
+
+Ejemplo esperado (para las filas del Excel):
+
+
+Mes: 1
+
+
+Bloque de estudio: 1
+
+
+Palabra en Español: Apellido
+
+
+Traducción al Portugués: Sobrenome
+
+
+Categoría: Sustantivo
+
+
+Frase de ejemplo: Mi apellido es Silva.
+
+
+Notas / Advertencias: Falso amigo. No confundir con "apelido" (apodo).]
 
 **Respuesta:**
 
-Guía científica de estudio para la app "Aula de español"
+[Guía científica de estudio para la app "Aula de español"
 Para acelerar el aprendizaje del nivel básico de español en estudiantes brasileños, la app se fundamenta en tres métodos científicos comprobados por la neurociencia cognitiva y la lingüística aplicada ELE (Español como Lengua Extranjera) . Estas técnicas aprovechan la cercanía entre el portugués y el español (89% de similitud léxica), pero previenen los vicios de fosilización y las interferencias fonéticas.
 
 1. Adquisición de Vocabulario: Sistema de Repetición Espaciada (SRS) y Recuperación Activa
@@ -34,7 +131,7 @@ He escrito y ejecutado el código necesario en Python para generar y exportar el
 
 *Estructura y especificaciones del archivo Excel:*
 
-* Total de registros: 1000 palabras distribuidas exactamente en 5 meses (200 palabras por mes) y 50 bloques de lección (20 palabras por bloque) [cite: 23, 26].
+* Total de registros: 1000 palabras distribuidas exactamente en 5 meses (200 palabras por mes) y 50 bloques de lección (20 palabras por bloque).
 * Diseño profesional: Encabezados en azul marino (#1B365D) con texto en blanco y negrita, sombreado alternado por mes para facilitar la lectura, líneas de cuadrícula visibles y formato ajustado listo para impresión o importación a base de datos.
 * Columnas exactas incluidas:
  * -Mes (1 al 5): Organización progresiva por temarios del plan de 150 días.
@@ -51,6 +148,6 @@ He escrito y ejecutado el código necesario en Python para generar y exportar el
  * -Mes 2 (Bloques 11 a 20 / Palabras 201 a 400): Días, meses, horas, rutinas diarias (verbos reflexivos), familia, descripciones físicas/carácter, cuerpo humano y expresión de gustos (verbo gustar).
 * -Mes 3 (Bloques 21 a 30 / Palabras 401 a 600): Partes de la casa, muebles, ciudad, servicios públicos, preposiciones de lugar, indicaciones, transporte, clima y heterogenéricos frecuentes.
 * -Mes 4 (Bloques 31 a 40 / Palabras 601 a 800): Alimentos, bebidas, compras en restaurantes y tiendas, prendas de vestir, colores, tecnología, salud, farmacia y trampas léxicas de consumo.
-* -Mes 5 (Bloques 41 a 50 / Palabras 801 a 1000): Viajes, hoteles, expresiones temporales de pasado y futuro (ir a + infinitivo), celebraciones, conectores argumentativos, variación regional (LatAm vs. España) y consolidación A2 [.
+* -Mes 5 (Bloques 41 a 50 / Palabras 801 a 1000): Viajes, hoteles, expresiones temporales de pasado y futuro (ir a + infinitivo), celebraciones, conectores argumentativos, variación regional (LatAm vs. España) y consolidación A2.
 
 El archivo .xlsx ya está disponible en tu panel de Studio para ser utilizado como la base de datos principal de Aula de español.]
